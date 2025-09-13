@@ -143,7 +143,7 @@
     <string name="settings_stop_system_service">Detener el servicio del sistema</string>
     <string name="settings_stop_system_service_summary">Necesita reiniciar para reiniciar el servicio</string>
     <string name="settings_is_clean_env">¿Limpiar el entorno de ejecución al mismo tiempo?</string>
-    <string name="settings_is_clean_env_summary">Elimine la caché de servicios del sistema en /data/misc/hide_my_applist_*. Esto significa que tendrá que iniciar la aplicación del módulo una vez manualmente después del siguiente reinicio para habilitar las intercepciones, y los recuentos de intercepción también se limpiarán.</string>
+    <string name="settings_is_clean_env_summary">Elimine la caché de servicios del sistema en /data/misc/Ciallo_*. Esto significa que tendrá que iniciar la aplicación del módulo una vez manualmente después del siguiente reinicio para habilitar las intercepciones, y los recuentos de intercepción también se limpiarán.</string>
     <string name="settings_force_clean_env">Forzar limpiar entorno de ejecución (root)</string>
     <string name="settings_force_clean_env_summary">Solo si el servicio del sistema no se inicia; de lo contrario, debe hacer clic en la opción anterior.</string>
     <string name="settings_force_clean_env_toast_successful">Entorno de ejecución limpiado</string>

@@ -38,6 +38,8 @@ class AboutActivity : AbsAboutActivity() {
         items.add(Line())
         items.add(Contributor(R.drawable.cont_fk, "frknkrc44", "HMA-OSS Developer", "https://github.com/frknkrc44"))
         items.add(Line())
+        items.add(Contributor(R.drawable.cont_sk, "Shirkneko", "HMA-OSS Fork", "https://github.com/ShirkNeko"))
+        items.add(Line())
         items.add(Contributor(R.drawable.cont_k, "Ketal", "Collaborator", "https://github.com/keta1"))
         items.add(Line())
         items.add(Contributor(R.drawable.cont_aviraxp, "aviraxp", "Collaborator", "https://github.com/aviraxp"))
@@ -47,9 +49,9 @@ class AboutActivity : AbsAboutActivity() {
         items.add(Contributor(R.drawable.cont_cpp_master, "LoveSy", "Idea provider", "https://github.com/yujincheng08"))
 
         items.add(Category(getString(R.string.about_support)))
-        items.add(Card("Github\nhttps://github.com/frknkrc44/HMA-OSS"))
+        items.add(Card("Github\nhttps://github.com/ShirkNeko/HMA-OSS"))
         items.add(Line())
-        items.add(Card("Telegram\nhttps://t.me/aerathfuns"))
+        items.add(Card("Telegram\nhttps://t.me/ShirkNeko"))
 
         items.add(Category(getString(R.string.about_open_source)))
         items.add(License("MultiType", "drakeet", License.APACHE_2, "https://github.com/drakeet/MultiType"))

@@ -143,7 +143,7 @@
     <string name="settings_stop_system_service">Hentikan layanan sistem</string>
     <string name="settings_stop_system_service_summary">Perlu reboot untuk memulai kembali layanan</string>
     <string name="settings_is_clean_env">Bersihkan lingkungan runtime pada saat yang bersamaan?</string>
-    <string name="settings_is_clean_env_summary">Hapus cache layanan sistem di /data/misc/hide_my_applist_*. Setelah mulai ulang berikutnya, Diperlukan membuka aplikasi modul sekali secara manual untuk mengaktifkan intersepsi, dan jumlah intersepsi juga akan dihapus.</string>
+    <string name="settings_is_clean_env_summary">Hapus cache layanan sistem di /data/misc/Ciallo_*. Setelah mulai ulang berikutnya, Diperlukan membuka aplikasi modul sekali secara manual untuk mengaktifkan intersepsi, dan jumlah intersepsi juga akan dihapus.</string>
     <string name="settings_force_clean_env">Paksa bersihkan lingkungan runtime (root)</string>
     <string name="settings_force_clean_env_summary">Hanya jika layanan sistem gagal untuk memulai, jika tidak, anda harus mengklik opsi di atas.</string>
     <string name="settings_force_clean_env_toast_successful">Lingkungan runtime dibersihkan</string>

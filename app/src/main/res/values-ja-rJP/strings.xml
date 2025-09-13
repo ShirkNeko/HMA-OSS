@@ -143,7 +143,7 @@
     <string name="settings_stop_system_service">システムサービスを停止する</string>
     <string name="settings_stop_system_service_summary">サービスを再開するには再起動が必要です</string>
     <string name="settings_is_clean_env">実行環境のクリーンアップをしますか？</string>
-    <string name="settings_is_clean_env_summary">/data/misc/hide_my_applist_* のシステムサービスキャッシュを削除します。つまり、インターセプトを有効にするには、次回の再起動後にモジュールアプリを手動で 1 回起動する必要があり、インターセプトカウントも消去されます。</string>
+    <string name="settings_is_clean_env_summary">/data/misc/Ciallo_* のシステムサービスキャッシュを削除します。つまり、インターセプトを有効にするには、次回の再起動後にモジュールアプリを手動で 1 回起動する必要があり、インターセプトカウントも消去されます。</string>
     <string name="settings_force_clean_env">クリーンな実行環境を強制する (root)</string>
     <string name="settings_force_clean_env_summary">システムサービスの開始に失敗した場合のみ、それ以外の場合は上記のオプションをクリックする必要があります。</string>
     <string name="settings_force_clean_env_toast_successful">実行環境がクリーンアップされました</string>
