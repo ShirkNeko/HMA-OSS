@@ -34,6 +34,12 @@ class RootAppsPreset() : BasePreset("root_apps") {
         "ru.nsu.bobrofon.easysshfs",
         "x1125io.initdlight",
         "com.lonelycatgames.Xplore",
+        "com.byyoung.setting",
+        "web1n.stopapp",
+        "ru.maximoff.apktool",
+        "com.termux",
+        "xzr.konabess",
+        
 
         // kernel managers
         "flar2.exkernelmanager",
